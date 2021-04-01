@@ -1,0 +1,23 @@
+{
+  "name": "dating-app-eksamen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauritsz/dating-app-eksamen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lauritsz/dating-app-eksamen/issues"
+  },
+  "homepage": "https://github.com/lauritsz/dating-app-eksamen#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tedious": "^11.0.6"
+  }
+}
